@@ -5,6 +5,7 @@ public class Demo{
 		int x=10;
 		static int a=20;
 		System.out.println("x value :-" +x);
-
+		
+		String str="Devduttt";
 	}
 }
