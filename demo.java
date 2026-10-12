@@ -4,5 +4,7 @@ public class Demo{
 		System.out.println("SBI Loan APP Demo");
 		int x=10;
 		static int a=20;
+		System.out.println("x value :-" +x);
+
 	}
 }
